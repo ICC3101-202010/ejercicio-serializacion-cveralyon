@@ -1,0 +1,6 @@
+/Users/cristianveralyon/Desktop/labpoo/ejercicio-serializacion-cveralyon/ejercicio/ejercicio/obj/Debug/ejercicio.csprojAssemblyReference.cache
+/Users/cristianveralyon/Desktop/labpoo/ejercicio-serializacion-cveralyon/ejercicio/ejercicio/obj/Debug/ejercicio.csproj.CoreCompileInputs.cache
+/Users/cristianveralyon/Desktop/labpoo/ejercicio-serializacion-cveralyon/ejercicio/ejercicio/bin/Debug/ejercicio.exe
+/Users/cristianveralyon/Desktop/labpoo/ejercicio-serializacion-cveralyon/ejercicio/ejercicio/bin/Debug/ejercicio.pdb
+/Users/cristianveralyon/Desktop/labpoo/ejercicio-serializacion-cveralyon/ejercicio/ejercicio/obj/Debug/ejercicio.exe
+/Users/cristianveralyon/Desktop/labpoo/ejercicio-serializacion-cveralyon/ejercicio/ejercicio/obj/Debug/ejercicio.pdb
